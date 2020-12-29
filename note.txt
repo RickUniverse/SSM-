@@ -1,0 +1,8 @@
+内容导航:
+    1, Generator Test class : test/java/Generator
+    2, 可以进行批量的sqlSession : 配置在 : applicationContext.xml 中 71 行, 测试代码在, test/java/MapperTest中testBath
+        方法
+    3, Spring的测试类, 使用Spring的单元测试 : test/java/MapperTest
+        SpringMVC的测试类 : test/java/MVCTest
+    4, JSR303数据校验在 EmployeeController 方法 : addEmployee, 使用: @Valid Employee employee, BindingResult result
+    5,
